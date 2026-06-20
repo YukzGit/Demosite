@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AnimeCo - Discover Anime</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="navbar glass">
+  <a class="logo" href="index.html">
+    <img src="images/logo.png" alt="AnimeCo logo">
+    AnimeCo
+  </a>
+  <nav class="nav-links">
+    <a href="index.html">Home</a>
+    <a href="search.html">Search</a>
+    <a href="about.html">About</a>
+  </nav>
+  <form id="nav-search-form">
+    <input class="search-input" type="text" placeholder="Search anime...">
+    <button class="btn" type="submit">Go</button>
+  </form>
+</header>
+
+<main>
+  <section class="hero glass">
+    <h1>Discover your next favorite anime</h1>
+    <p>Browse, search, and explore — all in one light, glassy space.</p>
+  </section>
+
+  <section>
+    <h2>Trending</h2>
+    <div id="trending-grid" class="card-grid"></div>
+  </section>
+
+  <section>
+    <h2>All Anime</h2>
+    <div id="anime-grid" class="card-grid"></div>
+  </section>
+</main>
+
+<footer>© 2026 AnimeCo. Demo project.</footer>
+
+<script src="js/app.js"></script>
+</body>
+</html>

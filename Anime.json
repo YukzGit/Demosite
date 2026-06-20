@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "Naruto",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "year": 2002,
+    "episodes": 220,
+    "rating": 8.3,
+    "status": "Completed",
+    "image": "https://placehold.co/400x550/a8d8ea/2b6f8f?text=Naruto",
+    "synopsis": "A young outcast ninja chases recognition from his village while carrying a dangerous power sealed inside him."
+  },
+  {
+    "id": 2,
+    "title": "Attack on Titan",
+    "genres": ["Action", "Drama", "Horror"],
+    "year": 2013,
+    "episodes": 87,
+    "rating": 9.0,
+    "status": "Completed",
+    "image": "https://placehold.co/400x550/9fd8ec/24607c?text=Attack+on+Titan",
+    "synopsis": "Humanity hides behind massive walls to survive man-eating giants, until one boy vows to wipe them out."
+  },
+  {
+    "id": 3,
+    "title": "Death Note",
+    "genres": ["Mystery", "Psychological", "Thriller"],
+    "year": 2006,
+    "episodes": 37,
+    "rating": 9.0,
+    "status": "Completed",
+    "image": "https://placehold.co/400x550/b7e4f7/1f5870?text=Death+Note",
+    "synopsis": "A genius student gains a notebook that kills anyone whose name is written in it, and begins reshaping the world."
+  },
+  {
+    "id": 4,
+    "title": "Demon Slayer",
+    "genres": ["Action", "Supernatural"],
+    "year": 2019,
+    "episodes": 55,
+    "rating": 8.6,
+    "status": "Ongoing",
+    "image": "https://placehold.co/400x550/cdeffd/2b6f8f?text=Demon+Slayer",
+    "synopsis": "After his family is slaughtered, a boy trains as a demon slayer to save his only surviving sister."
+  },
+  {
+    "id": 5,
+    "title": "One Piece",
+    "genres": ["Action", "Adventure", "Comedy"],
+    "year": 1999,
+    "episodes": 1100,
+    "rating": 8.7,
+    "status": "Ongoing",
+    "image": "https://placehold.co/400x550/a0d9ee/1f5870?text=One+Piece",
+    "synopsis": "A rubber-bodied pirate sails the seas in search of the legendary treasure that will make him king."
+  },
+  {
+    "id": 6,
+    "title": "My Hero Academia",
+    "genres": ["Action", "Superhero"],
+    "year": 2016,
+    "episodes": 159,
+    "rating": 7.9,
+    "status": "Ongoing",
+    "image": "https://placehold.co/400x550/bfe8f7/24607c?text=My+Hero+Academia",
+    "synopsis": "In a world where almost everyone has superpowers, a powerless boy fights to become the greatest hero anyway."
+  },
+  {
+    "id": 7,
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "genres": ["Action", "Adventure", "Fantasy"],
+    "year": 2009,
+    "episodes": 64,
+    "rating": 9.1,
+    "status": "Completed",
+    "image": "https://placehold.co/400x550/93d3ea/1f5870?text=FMA+Brotherhood",
+    "synopsis": "Two brothers use alchemy in a doomed attempt to bring their mother back, paying a steep price for it."
+  },
+  {
+    "id": 8,
+    "title": "Jujutsu Kaisen",
+    "genres": ["Action", "Supernatural"],
+    "year": 2020,
+    "episodes": 47,
+    "rating": 8.6,
+    "status": "Ongoing",
+    "image": "https://placehold.co/400x550/aee3f5/2b6f8f?text=Jujutsu+Kaisen",
+    "synopsis": "A boy swallows a cursed talisman to save his friends and becomes host to a powerful curse himself."
+  }
+]
